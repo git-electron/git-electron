@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=git-electron&hide=stars,contribs&show=prs_merged_percentage&show_icons=true&rank_icon=percentile&include_all_commits=true&custom_title=Stats" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=git-electron&show_icons=true&include_all_commits=true&custom_title=Stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-electron&layout=compact" />
