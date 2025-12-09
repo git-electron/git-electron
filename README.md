@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm a software engineer at DNA Team focusing on cross-platform mobile apps development. I also develop console apps e.g. telegram bots, scripts and Dart servers. Some of my open source projects are described here.
 
+[View my portfolio →](https://git-electron-personal.vercel.app/)
+
 <!--
 **git-electron/git-electron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
